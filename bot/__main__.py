@@ -187,7 +187,7 @@ help_string_telegraph = f'''<br>
 '''
 
 help = telegraph.create_page(
-    title='Bot Help',
+    title='Ocx-Mirror Bot Help',
     content=help_string_telegraph)["path"]
 
 def bot_help(update, context):
